@@ -9,7 +9,7 @@ Gaining skills in creating your own and using standard collections in the Java p
 ### Assignments
 
 1.  Set
-2.  Однозв’язний список
+2.  Single linked list
 3.  Create a class that describes a typed collection (the type of collection is a generic class from laboratory work # 5),
 which implements the interface specified by the variant (p.2) and has a specified internal structure (p.3).
 Implement all methods of the interface, as well as create at least 3 constructors (1 - empty, 2 - to which 1 object of a generic class is passed,
